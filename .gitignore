@@ -1,0 +1,5 @@
+# Ignore MongoMemoryServer files and other large test artifacts
+*.log
+*.tmp
+.nyc_output
+coverage
